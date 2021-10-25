@@ -3,11 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace csharp_data_structures_algorithms_test
 {
     [TestClass]
-    public class UnitTest1
+    public class ListTest
     {
-        [TestMethod]
-        public void TestMethod1()
-        {
-        }
     }
 }
